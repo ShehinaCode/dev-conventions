@@ -38,6 +38,8 @@
     * `from _subject_` - remove something for _subject_
     * `in _subject_` - some internal changes in _subject_
     * `_subject_ to _subject_new_` - replace _subject_ with another _subject_ or change name of the _subject_
+    * `case` - some case for _subject_ (expectially for _Spec:_ _verb_)
+    * `missed` - some missed _subject_
     
 * Common patterns:
     * `Fix: make ChangelogFetcher#filename =>nil`
