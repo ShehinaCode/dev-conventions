@@ -11,6 +11,8 @@
 * Prepend commit messages with determinative _verbs_:
     * `Add:`      - when _add_ a new _subject_ 
     * `Remove:`   - when _remove_ some _subject_
+    * `Move`      - when _subject_ was moved
+    * `Rename`    - when _subject_ was renamed
     * `Improve`   - when _add_ some functionality from _subject_
     * `Refactor:` - when _refactor_ some _subject_
     * `Fix:`      - when _fix_ some errors or behavior for _subject_
