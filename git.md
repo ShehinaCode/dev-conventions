@@ -42,4 +42,4 @@
 * Common patterns:
     * `Fix: make ChangelogFetcher#filename =>nil`
     * `Add: 'gem_name' param for ChangelogFetcher`
-    * `Move: git.md, ruby.md to /dev/git.txt,/dev/ruby.txt`
+    * `Move: git.md, ruby.md to /dev/git.txt, /dev/ruby.txt`
