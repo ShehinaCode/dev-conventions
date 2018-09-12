@@ -29,6 +29,7 @@
     * `'unless'`, `'if'`
     * `commentary` - comments for _subject_
     * `file.md` (or `'file.md'`)
+    * `'_some_name_'` - name of _subject_ if it can't be distingued from other text in commit message
 
     
 * Example _utility words_:
