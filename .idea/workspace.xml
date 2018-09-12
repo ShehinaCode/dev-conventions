@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/git.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="418">
-                <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,15 +114,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536772169615</updated>
-      <workItem from="1536772171122" duration="4888000" />
+      <workItem from="1536772171122" duration="5319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4888000" />
+    <option name="totallyTimeSpent" value="5319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-23" width="1922" height="1104" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16986156" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -168,8 +169,8 @@
     <entry file="file://$PROJECT_DIR$/git.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
           </first_editor>
           <second_editor />
         </state>

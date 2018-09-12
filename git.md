@@ -5,8 +5,8 @@
     * _message_ consists of:
         * _subjects_ -  method, function, class, object or variable or construction, and so on. 
         * _utility words_ - describe what commit do
-        
 * **One _subject_ - one commit message!**
+* When, in some reasons there is more than one _subject_ affected in commit, you can list them one by one with comma. 
     
 * Prepend commit messages with determinative _verbs_:
     * `Add:`      - when _add_ a new _subject_ 
