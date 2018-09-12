@@ -30,6 +30,7 @@
     * `param '_param_name_'` - param with _param_name 
     * `for _subject_`  - add something for _subject_
     * `from _subject_` - remove something for _subject_
+    * `in _subject_` - some internal changes in _subject_
     
 * Common patterns:
     * `Fix: make ChangelogFetcher#filename =>nil`
