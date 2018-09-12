@@ -28,7 +28,8 @@
     * `ClassName@instance_varible`
     * `'unless'`, `'if'`
     * `commentary` - comments for _subject_
-    * `file.md`
+    * `file.md` (or `'file.md'`)
+
     
 * Example _utility words_:
     * `=>_subject_name_` - shows what _subject_ returns
