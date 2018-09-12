@@ -3,8 +3,10 @@
 * Commit message:
     * Consists of: `Verb: message`
     * _message_ consists of:
-        * _subjects_ -  method, function, class, object or variable or construction, and so on. One _subject_ - one _message_
+        * _subjects_ -  method, function, class, object or variable or construction, and so on. 
         * _utility words_ - describe what commit do
+        
+* **One _subject_ - one commit message!**
     
 * Prepend commit messages with determinative _verbs_:
     * `Add:`      - when _add_ a new _subject_ 
@@ -23,6 +25,7 @@
     * `ClassName.class_method_name`
     * `ClassName@instance_varible`
     * `'unless'`, `'if'`
+    * `commentary` - comments for _subject_
     
 * Example _utility words_:
     * `=>_subject_name_` - shows what _subject_ returns
