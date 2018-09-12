@@ -17,7 +17,7 @@
     * `Spec:_verb_:` - all _verbs_ described higher for specs
     
 * Example _subjects_ for which _verbs_ are applied:
-    * `::Module`
+    * `Module::`
     * `ClassName`
     * `ClassName#instance_method_name`
     * `ClassName.class_method_name`
