@@ -31,6 +31,7 @@
     * `for _subject_`  - add something for _subject_
     * `from _subject_` - remove something for _subject_
     * `in _subject_` - some internal changes in _subject_
+    * `_subject_ to _subject_new_` - replace _subject_ with another _subject_ or change name of the _subject_
     
 * Common patterns:
     * `Fix: make ChangelogFetcher#filename =>nil`
