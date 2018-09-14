@@ -48,3 +48,4 @@
     * `Fix: make ChangelogFetcher#filename =>nil`
     * `Add: 'gem_name' param for ChangelogFetcher`
     * `Move: git.md, ruby.md to /dev/git.txt, /dev/ruby.txt`
+    * `Refactor: extra explicit 'nil' return in ChangelogParser.run`
