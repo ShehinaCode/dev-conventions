@@ -42,6 +42,7 @@
     * `_subject_ to _subject_new_` - replace _subject_ with another _subject_ or change name of the _subject_
     * `case` - some case for _subject_ (expectially for _Spec:_ _verb_)
     * `missed` - some missed _subject_
+    * `extra` - some unnecessary code
     
 * Common patterns:
     * `Fix: make ChangelogFetcher#filename =>nil`
