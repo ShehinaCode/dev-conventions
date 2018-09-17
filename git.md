@@ -17,6 +17,7 @@
     * `Refactor:` - when _refactor_ some _subject_
     * `Fix:`      - when _fix_ some errors or behavior for _subject_
     * `Typo:`     - when _fix_ some typo in code
+    * `Spell:`    - when fix some spelling mistake
     
     * `Spec:_verb_:` - all _verbs_ described higher for specs
     
